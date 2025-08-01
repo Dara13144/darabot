@@ -5,8 +5,8 @@ import qrcode
 from datetime import datetime
 
 # === BOT CONFIG ===
-BOT_TOKEN = "8477889473:AAFkWVmpErgSWFAPIKSau3gDALgM_I5RtRo"
-ADMIN_ID = 5836800525  # Replace with your own Telegram ID
+BOT_TOKEN = "TOKEN"
+ADMIN_ID = 12345678  # Replace with your own Telegram ID
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # === DATABASE SETUP ===
